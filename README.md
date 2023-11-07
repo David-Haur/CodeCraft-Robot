@@ -1,4 +1,4 @@
 # WindowsRelease
 机器人Q中啦的WindowsRelease
 
-最终的比赛代码在match_code文件夹里面
+最终的比赛代码是main.py
